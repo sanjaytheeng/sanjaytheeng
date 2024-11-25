@@ -1,11 +1,12 @@
-- 👋 Hi, I’m Sanjay Tamang
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on web development
-- 📫 How to reach me:
-- By gmail: sanjaytheeng007@gmail.com
+Hi there 👋, I'm Sanjay Tamang
+- 🔭 I’m currently pursuing **Bachelor of Computer Applications (BCA)**
+- 🌱 I’m learning **Web Development**, **Python**, and **Data Structures**
+- 💻 My skills include **HTML, CSS, JavaScript, Java, Python, Django, SQL**
+- 📫 Reach me at: [Gmail](sanjaytheeng007@gmail.com)
 
-<!---
-Solticoder/Solticoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Projects
+- [PFMS](https://github.com/sanjaytheeng/PFMS): A personal financial management system made with Django and esewa as the payment gateway.
+- [Portfolio Website](https://github.com/sanjaytheeng/Portfolio): My personal portfolio showcasing my work.
+
+Fun Fact
+- I love coding and exploring new technologies!
