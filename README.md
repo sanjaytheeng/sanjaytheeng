@@ -2,9 +2,8 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on web development
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me:
+- By gmail: sanjaytheeng007@gmail.com
 
 <!---
 Solticoder/Solticoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
