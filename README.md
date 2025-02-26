@@ -3,7 +3,7 @@
 - 🌱 I’m learning **Web Development**, **Python**, and **Data Structures**
 - 💻 My skills include **HTML, CSS, JavaScript, Java, Python, Django, SQL**
 - 📫 Reach me at: [Gmail](sanjaytheeng007@gmail.com)
-- Visit my portfolio: [Portfolio Website](sanjaytamang.vercel.app)
+- Visit my portfolio: [Portfolio Website](https://sanjaytamang.vercel.app/)
 
 ## Projects
 - [PFMS](https://github.com/sanjaytheeng/PFMS): A personal financial management system made with Django and esewa as the payment gateway.
