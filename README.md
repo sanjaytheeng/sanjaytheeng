@@ -7,7 +7,8 @@
 
 ## Projects
 - [PFMS](https://github.com/sanjaytheeng/PFMS): A personal financial management system made with Django and esewa as the payment gateway.
-- [Portfolio Website](https://github.com/sanjaytheeng/Portfolio): My personal portfolio showcasing my work.
+- [BotStack](https://github.com/sanjaytheeng/Botstack): An AI agent to communicate and generate summary, transcripts, chat with AI.
+- [Inventory-Management-System](https://github.com/sanjaytheeng/Inventory-Management-System): A Django-based inventory management system designed for real estate companies to track and manage their inventory items (e.g., lockboxes) and their assignments to agents.
 
 ## Fun Fact
 - I love to code and explore new ideas!
