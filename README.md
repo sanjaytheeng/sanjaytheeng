@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Sanjay Tamang
-- 🔭 I’m currently pursuing **Bachelor of Computer Applications (BCA)**
+- 🔭 I have completed my **Bachelor of Computer Applications (BCA)**
 - 🌱 I’m learning **Web Development**, **Python**, and **Data Structures**
 - 💻 My skills include **HTML, CSS, JavaScript, Java, Python, Django, SQL**
 - 📫 Reach me at: sanjaytheeng007@gmail.com
