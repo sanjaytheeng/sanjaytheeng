@@ -11,6 +11,7 @@
 <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
 <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
 </picture>
+<br />
 
 ## Projects
 - [PFMS](https://github.com/sanjaytheeng/PFMS): A personal financial management system made with Django and esewa as the payment gateway.
