@@ -55,7 +55,6 @@ A Django solution for real estate companies to track physical assets (e.g., lock
 
 ## 📊 GitHub Analytics
 
-![Sanjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjaytheeng&show_icons=true&theme=radical&hide_border=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaytheeng&layout=compact&theme=radical&hide_border=true)
 
 ---
